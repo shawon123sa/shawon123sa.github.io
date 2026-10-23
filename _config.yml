@@ -58,23 +58,23 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # Replace this with you Bluesky username
-  facebook         : shawon123sa
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : shawon123sa
+  instagram        : # Username
   lastfm           : # Username
-  linkedin         : shawon123sa
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : shawon123sa
+  soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : shawon123sa
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -138,9 +138,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
-  username               :
+  username               : shawon123sa
+facebook: 
+  username               : ahaawon123sa
   app_id                 :
   publisher              :
 og_image                 : og-image.png   # Social media default site image (lives in /images/)
