@@ -52,6 +52,7 @@ Explore some of my memorable journeys through photographs and personal stories.
   max-height: 480px;
   object-fit: cover;
   border-radius: 8px;
+  display: block;
 }
 
 @media (max-width: 600px) {
@@ -65,7 +66,7 @@ Explore some of my memorable journeys through photographs and personal stories.
 <div class="travel-stories">
 
   <div class="travel-card">
-    <img src="/images/travel/bandarban.jpg" alt="Bandarban">
+    <img src="/images/travel/bandarban-1.jpg" alt="Bandarban mountains and scenery">
     <div class="travel-card-body">
       <h3>Bandarban</h3>
       <p>Mountains, scenic landscapes, and memories from my journey.</p>
@@ -74,7 +75,7 @@ Explore some of my memorable journeys through photographs and personal stories.
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/chittagong.jpg" alt="Chittagong">
+    <img src="/images/travel/chittagong.jpg" alt="Chittagong travel destination">
     <div class="travel-card-body">
       <h3>Chittagong</h3>
       <p>Places I explored and experiences from my journey.</p>
@@ -83,7 +84,7 @@ Explore some of my memorable journeys through photographs and personal stories.
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/panchagarh.jpg" alt="Panchagarh">
+    <img src="/images/travel/panchagarh.jpg" alt="Panchagarh travel destination">
     <div class="travel-card-body">
       <h3>Panchagarh</h3>
       <p>A collection of travel memories from the northern part of Bangladesh.</p>
@@ -99,37 +100,106 @@ Explore some of my memorable journeys through photographs and personal stories.
 
 <div class="travel-story" id="bandarban">
 
-### Bandarban
+<h3>Bandarban</h3>
 
-<img src="/images/travel/bandarban.jpg" alt="Bandarban travel story">
+<img src="/images/travel/bandarban-1.jpg" alt="Bandarban travel photograph 1">
 
-**Travel date:** Add your date here
+<p><strong>Travel date:</strong> 15 September 2024</p>
 
-Write your personal story about Bandarban here. Include the places you visited, your experiences, and the moments you want to remember.
+<p>Bandarban is known for its beautiful hills, scenic landscapes, and natural beauty. This section is where I share photographs and memories from my journey.</p>
 
+<h3>Bandarban Photo Gallery</h3>
+
+<div class="travel-gallery">
+
+  <div class="travel-card">
+    <img src="/images/travel/bandarban-2.jpg" alt="Bandarban photograph 2">
+    <div class="travel-card-body">
+      <p><strong>Bandarban — Photo 2</strong></p>
+      <p>15 September 2024</p>
+    </div>
+  </div>
+
+  <div class="travel-card">
+    <img src="/images/travel/bandarban-3.jpg" alt="Bandarban photograph 3">
+    <div class="travel-card-body">
+      <p><strong>Bandarban — Photo 3</strong></p>
+      <p>15 September 2024</p>
+    </div>
+  </div>
+
+  <div class="travel-card">
+    <img src="/images/travel/bandarban-4.jpg" alt="Bandarban photograph 4">
+    <div class="travel-card-body">
+      <p><strong>Bandarban — Photo 4</strong></p>
+      <p>15 September 2024</p>
+    </div>
+  </div>
+
+  <div class="travel-card">
+    <img src="/images/travel/bandarban-5.jpg" alt="Bandarban photograph 5">
+    <div class="travel-card-body">
+      <p><strong>Bandarban — Photo 5</strong></p>
+      <p>15 September 2024</p>
+    </div>
+  </div>
+
+  <div class="travel-card">
+    <img src="/images/travel/bandarban-6.jpg" alt="Bandarban photograph 6">
+    <div class="travel-card-body">
+      <p><strong>Bandarban — Photo 6</strong></p>
+      <p>15 September 2024</p>
+    </div>
+  </div>
+
+  <div class="travel-card">
+    <img src="/images/travel/bandarban-7.jpg" alt="Bandarban photograph 7">
+    <div class="travel-card-body">
+      <p><strong>Bandarban — Photo 7</strong></p>
+      <p>15 September 2024</p>
+    </div>
+  </div>
+
+  <div class="travel-card">
+    <img src="/images/travel/bandarban-8.jpg" alt="Bandarban photograph 8">
+    <div class="travel-card-body">
+      <p><strong>Bandarban — Photo 8</strong></p>
+      <p>6 May 2025</p>
+    </div>
+  </div>
+
+  <div class="travel-card">
+    <img src="/images/travel/bandarban-9.jpg" alt="Bandarban photograph 9">
+    <div class="travel-card-body">
+      <p><strong>Bandarban — Photo 9</strong></p>
+      <p>6 May 2025</p>
+    </div>
+  </div>
+
+</div>
 </div>
 
 <div class="travel-story" id="chittagong">
 
-### Chittagong
+<h3>Chittagong</h3>
 
 <img src="/images/travel/chittagong.jpg" alt="Chittagong travel story">
 
-**Travel date:** Add your date here
+<p><strong>Travel date:</strong> Add your date here</p>
 
-Share your journey, the places you explored, and your favourite memories from Chittagong.
+<p>Share your journey, the places you explored, and your favourite memories from Chittagong.</p>
 
 </div>
 
 <div class="travel-story" id="panchagarh">
 
-### Panchagarh
+<h3>Panchagarh</h3>
 
 <img src="/images/travel/panchagarh.jpg" alt="Panchagarh travel story">
 
-**Travel date:** Add your date here
+<p><strong>Travel date:</strong> Add your date here</p>
 
-Write about your journey to Panchagarh, the places you visited, and your personal experiences.
+<p>Write about your journey to Panchagarh, the places you visited, and your personal experiences.</p>
 
 </div>
 
@@ -150,7 +220,7 @@ Photographs and short descriptions from other places I have explored.
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/place-2.jpg" alt="Travel destination">
+    <img src="/images/travel/place-2.jpg" alt="Another travel destination">
     <div class="travel-card-body">
       <h3>Place Name</h3>
       <p>Write one or two lines about this place and your experience.</p>
@@ -158,7 +228,7 @@ Photographs and short descriptions from other places I have explored.
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/place-3.jpg" alt="Travel destination">
+    <img src="/images/travel/place-3.jpg" alt="Another travel destination">
     <div class="travel-card-body">
       <h3>Place Name</h3>
       <p>Add a short caption describing the destination.</p>
