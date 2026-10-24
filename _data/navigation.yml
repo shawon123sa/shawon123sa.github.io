@@ -14,8 +14,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Travelling"
-    url: /travelling/
+  - title: "Travel"
+    url: /travel/
     
   - title: "Skills"
     url: /skills/    
@@ -25,3 +25,6 @@ main:
     
   - title: "Experience"
     url: /job-experience/
+    
+  - title: "Volunteering"
+    url: /volunteering-activities/
