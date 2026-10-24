@@ -73,6 +73,15 @@ Explore some of my memorable journeys through photographs and personal stories.
       <a href="#bandarban">Read Travel Story →</a>
     </div>
   </div>
+  
+  <div class="travel-card">
+  <img src="/images/travel/sylhet.jpg" alt="Sylhet">
+  <div class="travel-card-body">
+    <h3>Sylhet</h3>
+    <p>Memories of exploring Sylhet's natural beauty and scenic landscapes.</p>
+    <a href="#sylhet">Read Travel Story →</a>
+  </div>
+</div>
 
   <div class="travel-card">
     <img src="/images/travel/chittagong.jpg" alt="Chittagong travel destination">
