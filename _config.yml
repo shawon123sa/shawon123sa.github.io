@@ -6,81 +6,78 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default"
 title                    : "Shawon Ahmed"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Shawon Ahmed"
+description              : &description "Shawon Ahmed's professional portfolio showcasing content publishing, WordPress, SEO experience and education."
+url                      : "https://shawon123sa.github.io"
+baseurl                  : ""
+repository               : "shawon123sa/shawon123sa.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
-  # Biographic information
   avatar           : "IMG_3413.jpeg"
   name             : "Shawon Ahmed"
-  pronouns         : # example: "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Kushtia, Bangladesh"
-  employer         : "KJushtia Polytechnic Institute"
-  uri              : # URL
-  email            : "shawon123sa@icloud.com" 
+  pronouns         :
+  bio              : "Content Publisher | WordPress | On-Page SEO"
+  location         : "Bangladesh"
+  employer         :
+  uri              :
+  email            : "shawon123sa@icloud.com"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : # URL
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
+  academia         :
+  arxiv            :
+  googlescholar    :
+  inspire-hep      :
+  impactstory      :
+  orcid            :
+  semantic         :
+  ssrn             :
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  bitbucket        :
+  codepen          :
+  dribbble         :
   github           : "shawon123sa"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           :
+  stackoverflow    :
 
   # Social media
-  artstation       : # Username
-  bluesky          : # Replace this with you Bluesky username
+  artstation       :
+  bluesky          :
   facebook         : "shawon123sa"
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
   instagram        : "shawon123sa"
-  lastfm           : # Username
+  lastfm           :
   linkedin         : "shawon123sa"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
+  mastodon         :
+  medium           :
+  pinterest        :
   soundcloud       : "shawon123sa"
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
+  steam            :
+  telegram         :
+  tumblr           :
   twitter          : "shawon123sa"
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
