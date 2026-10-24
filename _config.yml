@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shawon Ahmed"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://github.com/shawon123sa # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,23 +25,23 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shawon Ahmed"
-  pronouns         : # example: "he/him"  
+  pronouns         : # example: "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Kushtia, Bangladesh"
-  employer         : "Kushtia Polytechnic Institute"
+  employer         : "KJushtia Polytechnic Institute"
   uri              : # URL
-  Email            : "shawon123sa@icloud.com" 
+  email            : "shawon123sa@icloud.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  Instagram        : 
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-                   : 
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,30 +51,30 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "shawon123sa"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : "shawon123sa"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "shawon123sa"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "shawon123sa"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : # Username
+  soundcloud       : "shawon123sa"
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username
+  twitter          : "shawon123sa"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -138,9 +138,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : shawon123sa
-facebook: 
-  username               : ahaawon123sa
+  username               : &twitter
+facebook:
+  username               :
   app_id                 :
   publisher              :
 og_image                 : og-image.png   # Social media default site image (lives in /images/)
