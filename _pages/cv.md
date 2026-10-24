@@ -27,14 +27,26 @@ author_profile: true
   min-height: 1000px;
   border: none;
 }
+
+.cv-download {
+  margin-bottom: 15px;
+  font-size: 18px;
+}
 </style>
 
 <div class="cv-container">
+
+  <p class="cv-download">
+    <a href="/Shawon_Ahmed_CV.pdf"
+       download="Shawon_Ahmed_CV.pdf">
+      Download Shawon's CV (PDF)
+    </a>
+  </p>
+
   <iframe
     id="cv-pdf"
     src="/Shawon_Ahmed_CV.pdf"
     title="Shawon Ahmed CV">
   </iframe>
-</div>
 
-[Download CV PDF](/Shawon_Ahmed_CV.pdf)
+</div>
