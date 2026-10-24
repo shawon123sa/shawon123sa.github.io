@@ -73,15 +73,15 @@ Explore some of my memorable journeys through photographs and personal stories.
       <a href="#bandarban">Read Travel Story →</a>
     </div>
   </div>
-  
+
   <div class="travel-card">
-  <img src="/images/travel/sylhet.jpg" alt="Sylhet">
-  <div class="travel-card-body">
-    <h3>Sylhet</h3>
-    <p>Memories of exploring Sylhet's natural beauty and scenic landscapes.</p>
-    <a href="#sylhet">Read Travel Story →</a>
+    <img src="/images/travel/sylhet.jpg" alt="Sylhet travel destination">
+    <div class="travel-card-body">
+      <h3>Sylhet</h3>
+      <p>Memories of exploring Sylhet's natural beauty and scenic landscapes.</p>
+      <a href="#sylhet">Read Travel Story →</a>
+    </div>
   </div>
-</div>
 
   <div class="travel-card">
     <img src="/images/travel/chittagong.jpg" alt="Chittagong travel destination">
@@ -200,6 +200,22 @@ Explore some of my memorable journeys through photographs and personal stories.
   </div>
 
 </div>
+</div>
+
+<div class="travel-story" id="sylhet">
+
+<h3>Sylhet</h3>
+
+<img src="/images/travel/sylhet.jpg" alt="Sylhet travel story">
+
+<p><strong>Travel date:</strong> Add your date here</p>
+
+<p>Sylhet is known for its green landscapes, tea gardens, rivers, and beautiful natural surroundings. The region offers opportunities to experience a different side of Bangladesh, from peaceful countryside scenery to places shaped by rivers and hills.</p>
+
+<p>My journey through Sylhet is another part of my travel collection. Through this section, I will share the places I visited, the landscapes I explored, and the moments that made the journey memorable.</p>
+
+<p>For me, travelling is an opportunity to discover unfamiliar places, observe local life, and create lasting memories. This story will bring together my personal experiences and photographs from Sylhet.</p>
+
 </div>
 
 <div class="travel-story" id="chittagong">
