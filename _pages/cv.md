@@ -16,8 +16,8 @@ author_profile: true
 }
 
 .cv-container {
-  width: calc(100% + 100px);
-  margin-left: 40px;
+  width: calc(100% + 180px);
+  margin-left: 80px;
 }
 
 #cv-pdf {
