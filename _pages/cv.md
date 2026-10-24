@@ -1,3 +1,8 @@
+---
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
 <object
   data="/Shawon_Ahmed_CV.pdf"
   type="application/pdf"
