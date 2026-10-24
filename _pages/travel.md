@@ -66,10 +66,10 @@ Explore some of my memorable journeys through photographs and personal stories.
 <div class="travel-stories">
 
   <div class="travel-card">
-    <img src="/images/travel/bandarban-1.jpg" alt="Bandarban mountains and scenery">
+    <img src="/images/travel/bandarban-1.jpg" alt="One of my favourite photographs from the Kirsthang trek">
     <div class="travel-card-body">
       <h3>Bandarban</h3>
-      <p>Mountains, scenic landscapes, and memories from my journey.</p>
+      <p>Mountain adventures, mist-covered trails, and meaningful encounters with local communities.</p>
       <a href="#bandarban">Read Travel Story →</a>
     </div>
   </div>
@@ -100,79 +100,93 @@ Explore some of my memorable journeys through photographs and personal stories.
 
 <div class="travel-story" id="bandarban">
 
-<h3>Bandarban</h3>
+<h3>Bandarban: Beyond the Mountains</h3>
 
-<img src="/images/travel/bandarban-1.jpg" alt="Bandarban travel photograph 1">
+<img src="/images/travel/bandarban-1.jpg" alt="One of my favourite photographs taken during the Kirsthang trek">
 
 <p><strong>Travel date:</strong> 15 September 2024</p>
 
-<p>Bandarban is known for its beautiful hills, scenic landscapes, and natural beauty. This section is where I share photographs and memories from my journey.</p>
+<p>Bandarban is a place I have returned to several times, and every visit has offered a different experience. Sometimes, I have travelled on my own; on other occasions, I have joined groups of fellow travellers and explored the hills together. Over time, these journeys have become more than simply trips to beautiful destinations.</p>
+
+<p>One of the most meaningful parts of travelling in the hill districts has been the opportunity to spend time in indigenous communities and remote hill villages. I have stayed in local villages, listened to people's stories, and tried to learn about their cultures and everyday lives. From their food habits and daily routines to their ways of travelling and moving between communities, I have always been curious to understand life from their perspective.</p>
+
+<p>Exploring different parts of the Bandarban hill region at different times has helped me appreciate not only its natural beauty but also the people and cultures that make the region unique. For me, travelling is not just about reaching a destination or taking photographs. It is also about meeting people, listening to their experiences, learning from unfamiliar ways of life, and seeing the world from a different perspective.</p>
+
+<p>Among my many travel memories, trekking through the hills remains especially memorable. The changing landscapes, mist-covered trails, unexpected rain, and challenges along the way make each journey distinctive. The photographs below capture a few moments from these adventures.</p>
 
 <h3>Bandarban Photo Gallery</h3>
 
 <div class="travel-gallery">
 
   <div class="travel-card">
-    <img src="/images/travel/bandarban-2.jpg" alt="Bandarban photograph 2">
+    <img src="/images/travel/bandarban-2.jpg" alt="Summit at the top of Rungrang Pahar">
     <div class="travel-card-body">
-      <p><strong>Bandarban — Photo 2</strong></p>
-      <p>15 September 2024</p>
+      <h3>Rungrang Pahar — Summit</h3>
+      <p>A photograph from the summit of Rungrang Pahar.</p>
+      <p><strong>Date:</strong> 15 September 2024</p>
     </div>
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/bandarban-3.jpg" alt="Bandarban photograph 3">
+    <img src="/images/travel/bandarban-3.jpg" alt="Shamuk Waterfall in Alikadam">
     <div class="travel-card-body">
-      <p><strong>Bandarban — Photo 3</strong></p>
-      <p>15 September 2024</p>
+      <h3>Shamuk Waterfall, Alikadam</h3>
+      <p>A glimpse of the well-known Shamuk Waterfall in Alikadam.</p>
+      <p><strong>Date:</strong> 15 September 2024</p>
     </div>
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/bandarban-4.jpg" alt="Bandarban photograph 4">
+    <img src="/images/travel/bandarban-4.jpg" alt="Scenic landscapes along the trekking route">
     <div class="travel-card-body">
-      <p><strong>Bandarban — Photo 4</strong></p>
-      <p>15 September 2024</p>
+      <h3>Scenic Views Along the Trail</h3>
+      <p>Throughout the trekking route, the scenery was incredibly beautiful. Every stretch of the trail revealed another view of the surrounding hills.</p>
+      <p><strong>Date:</strong> 15 September 2024</p>
     </div>
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/bandarban-5.jpg" alt="Bandarban photograph 5">
+    <img src="/images/travel/bandarban-5.jpg" alt="Walking through clouds in the hills">
     <div class="travel-card-body">
-      <p><strong>Bandarban — Photo 5</strong></p>
-      <p>15 September 2024</p>
+      <h3>Walking Through the Clouds</h3>
+      <p>At times, I walked right through the clouds, with mist surrounding the trail and creating an unforgettable atmosphere.</p>
+      <p><strong>Date:</strong> 15 September 2024</p>
     </div>
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/bandarban-6.jpg" alt="Bandarban photograph 6">
+    <img src="/images/travel/bandarban-6.jpg" alt="Rain during a hill trek">
     <div class="travel-card-body">
-      <p><strong>Bandarban — Photo 6</strong></p>
-      <p>15 September 2024</p>
+      <h3>Rain on the Trek</h3>
+      <p>There were moments when the rain caught us along the way. Walking through the hills in the rain became another memorable part of the journey.</p>
+      <p><strong>Date:</strong> 15 September 2024</p>
     </div>
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/bandarban-7.jpg" alt="Bandarban photograph 7">
+    <img src="/images/travel/bandarban-7.jpg" alt="A challenging moment on the trekking trail">
     <div class="travel-card-body">
-      <p><strong>Bandarban — Photo 7</strong></p>
-      <p>15 September 2024</p>
+      <h3>The Challenges of the Trail</h3>
+      <p>The trek was not always easy. Sometimes, I had to remove leeches from my body before continuing along the trail. These small challenges were part of the real trekking experience.</p>
+      <p><strong>Date:</strong> 15 September 2024</p>
     </div>
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/bandarban-8.jpg" alt="Bandarban photograph 8">
+    <img src="/images/travel/bandarban-8.jpg" alt="Bandarban travel photograph from May 2025">
     <div class="travel-card-body">
-      <p><strong>Bandarban — Photo 8</strong></p>
-      <p>6 May 2025</p>
+      <h3>Another Journey, Another Memory</h3>
+      <p>Another moment from my travels in the Bandarban hill region.</p>
+      <p><strong>Date:</strong> 6 May 2025</p>
     </div>
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/bandarban-9.jpg" alt="Bandarban photograph 9">
+    <img src="/images/travel/bandarban-9.jpg" alt="Bandarban travel photograph from May 2025">
     <div class="travel-card-body">
-      <p><strong>Bandarban — Photo 9</strong></p>
-      <p>6 May 2025</p>
+      <h3>A Moment to Remember</h3>
+      <p>A photograph preserving another memory from my journey through the hills.</p>
+      <p><strong>Date:</strong> 6 May 2025</p>
     </div>
   </div>
 
