@@ -207,7 +207,7 @@ Explore some of my memorable journeys through photographs and personal stories.
 
 <h3>Sylhet: A Journey Beyond the Destination</h3>
 
-<img src="/images/travel/sylhet-1.jpg" alt="A moment from one of my visits to Sylhet">
+<img src="/images/travel/Sylhet-1.jpg" alt="A moment from one of my visits to Sylhet">
 
 <p><strong>Travel date:</strong> 15 December 2025</p>
 
@@ -224,84 +224,84 @@ Explore some of my memorable journeys through photographs and personal stories.
 <div class="travel-gallery">
 
   <div>
-    <img src="/images/travel/sylhet-2.jpg" alt="Sada Pathor, Bholaganj, Sylhet">
+    <img src="/images/travel/Sylhet-2.jpg" alt="Sada Pathor, Bholaganj, Sylhet">
     <p><strong>Sada Pathor, Bholaganj</strong></p>
     <p>Bholaganj is known for its white stones and river scenery, making it one of Sylhet's well-known natural attractions.</p>
     <p><strong>Date:</strong> 8 August 2025</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-3.jpg" alt="Bisanakandi and Bholaganj, Sylhet">
+    <img src="/images/travel/Sylhet-3.jpg" alt="Bisanakandi and Bholaganj, Sylhet">
     <p><strong>Bisanakandi and Bholaganj</strong></p>
     <p>A travel memory from Sylhet, a region I have returned to many times to explore its natural beauty and discover new places.</p>
     <p><strong>Date:</strong> 15 December 2025</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-4.jpg" alt="Ratargul Swamp Forest, Gowain River, Sylhet">
+    <img src="/images/travel/Sylhet-4.jpg" alt="Ratargul Swamp Forest, Gowain River, Sylhet">
     <p><strong>Ratargul Swamp Forest</strong></p>
     <p>Located in Gowainghat, Ratargul is known for its freshwater swamp forest and the surrounding Gowain River landscape.</p>
     <p><strong>Date:</strong> 8 August 2025</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-5.jpg" alt="Shrine of Shah Paran, Sylhet">
+    <img src="/images/travel/Sylhet-5.jpg" alt="Shrine of Shah Paran, Sylhet">
     <p><strong>Shrine of Shah Paran</strong></p>
     <p>A visit to one of Sylhet's important spiritual sites. Exploring historical and cultural places is an important part of my travel experiences.</p>
     <p><strong>Date:</strong> 14 December 2025</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-6.jpg" alt="Tea at Shafrong, Sylhet">
+    <img src="/images/travel/Sylhet-6.jpg" alt="Tea at Shafrong, Sylhet">
     <p><strong>Tea at Shafrong</strong></p>
     <p>Tea is closely associated with Sylhet's identity. This stop adds another memory to my collection of experiences from the region.</p>
     <p><strong>Date:</strong> 14 December 2025</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-7.jpg" alt="Ali Amjad's Clock, Sylhet">
+    <img src="/images/travel/Sylhet-7.jpg" alt="Ali Amjad's Clock, Sylhet">
     <p><strong>Ali Amjad's Clock</strong></p>
     <p>Situated beside the Surma River, Ali Amjad's Clock is one of Sylhet's best-known historical landmarks and a distinctive part of the city's heritage.</p>
     <p><strong>Date:</strong> 7 February 2023</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-8.jpg" alt="Palm oil garden in Khadimnagar, Sylhet">
+    <img src="/images/travel/Sylhet-8.jpg" alt="Palm oil garden in Khadimnagar, Sylhet">
     <p><strong>Khadimnagar Palm Oil Garden</strong></p>
     <p>A different landscape from the usual river and hill scenery, adding variety to my experiences of exploring Sylhet.</p>
     <p><strong>Date:</strong> 14 December 2025</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-9.jpg" alt="China Clay Hill, Sylhet">
+    <img src="/images/travel/Sylhet-9.jpg" alt="China Clay Hill, Sylhet">
     <p><strong>China Clay Hill</strong></p>
     <p>Another interesting location in my Sylhet travel collection. I enjoy discovering places with distinctive landscapes and learning about the regions I visit.</p>
     <p><strong>Date:</strong> 14 December 2025</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-10.jpeg" alt="Jaflong, Gowainghat, Sylhet">
+    <img src="/images/travel/Sylhet-10.jpeg" alt="Jaflong, Gowainghat, Sylhet">
     <p><strong>Jaflong, Gowainghat</strong></p>
     <p>Jaflong is known for its river scenery and views towards the hills near the Bangladesh–India border. It remains one of Sylhet's familiar travel destinations.</p>
     <p><strong>Date:</strong> 18 May 2026</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-11.jpeg" alt="Khasia Polli, Jaflong">
+    <img src="/images/travel/Sylhet-11.jpeg" alt="Khasia Polli, Jaflong">
     <p><strong>Khasia Polli, Jaflong</strong></p>
     <p>Learning about local communities and their everyday lives is one of the things that makes travelling meaningful to me. Places like this encourage me to look beyond the scenery.</p>
     <p><strong>Date:</strong> 18 May 2026</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-12.jpeg" alt="Tea garden in Jaflong, Sylhet">
+    <img src="/images/travel/Sylhet-12.jpeg" alt="Tea garden in Jaflong, Sylhet">
     <p><strong>Tea Garden of Jaflong</strong></p>
     <p>A tea garden adds another dimension to Sylhet's varied landscape. Discovering different sides of a familiar region is one of the reasons I enjoy returning.</p>
     <p><strong>Date:</strong> 18 May 2026</p>
   </div>
 
   <div>
-    <img src="/images/travel/sylhet-13.jpeg" alt="Mayabi Waterfalls, Gowainghat, Sylhet">
+    <img src="/images/travel/Sylhet-13.jpeg" alt="Mayabi Waterfalls, Gowainghat, Sylhet">
     <p><strong>Mayabi Waterfalls, Gowainghat</strong></p>
     <p>Another stop in my Sylhet travel journey. Every visit gives me another opportunity to explore a place, observe my surroundings, and add new memories to my travel collection.</p>
     <p><strong>Date:</strong> 18 May 2026</p>
