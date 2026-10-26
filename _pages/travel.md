@@ -75,7 +75,7 @@ Explore some of my memorable journeys through photographs and personal stories.
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/sylhet.jpg" alt="Sylhet travel destination">
+    <img src="/images/travel/Sylhet-1.JPG" alt="Sylhet travel destination">
     <div class="travel-card-body">
       <h3>Sylhet</h3>
       <p>Memories of exploring Sylhet's natural beauty and scenic landscapes.</p>
