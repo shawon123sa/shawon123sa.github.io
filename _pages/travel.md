@@ -212,7 +212,7 @@ Explore some of my memorable journeys through photographs and personal stories.
 
 <p><strong>Travel date:</strong> 15 December 2025</p>
 
-<p>Sylhet is one of the places I have visited repeatedly, and so far, I have travelled there eight times. One of the reasons Sylhet has become a familiar destination for me is that my only sister's in-laws live there, which means I get the opportunity to visit the region quite often. However, for someone like me, who has a deep passion for travelling, every visit is more than just a family trip.</p>
+<p>Sylhet is one of the places I have visited repeatedly, and so far, I have travelled there eight times. One of the reasons Sylhet has become a familiar destination for me is that my only sister got married there, which means I get the opportunity to visit the region quite often. However, for someone like me, who has a deep passion for travelling, every visit is more than just a family trip.</p>
 
 <p>Whenever I travel to a place, I try to learn something beyond what I can see with my own eyes. I am naturally curious about the local food, famous attractions, history, traditions, and everyday lives of the people who call that place home. These are the things that make travelling meaningful to me. Beautiful landscapes may catch my attention at first, but understanding the people and culture behind a destination makes the experience even more memorable.</p>
 
