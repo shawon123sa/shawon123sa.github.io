@@ -202,21 +202,114 @@ Explore some of my memorable journeys through photographs and personal stories.
 </div>
 </div>
 
+
 <div class="travel-story" id="sylhet">
 
-<h3>Sylhet</h3>
+<h3>Sylhet: A Journey Beyond the Destination</h3>
 
-<img src="/images/travel/sylhet.jpg" alt="Sylhet travel story">
+<img src="/images/travel/sylhet-1.jpg" alt="A moment from one of my visits to Sylhet">
 
-<p><strong>Travel date:</strong> Add your date here</p>
+<p><strong>Travel date:</strong> 15 December 2025</p>
 
-<p>Sylhet is known for its green landscapes, tea gardens, rivers, and beautiful natural surroundings. The region offers opportunities to experience a different side of Bangladesh, from peaceful countryside scenery to places shaped by rivers and hills.</p>
+<p>Sylhet is one of the places I have visited repeatedly, and so far, I have travelled there eight times. One of the reasons Sylhet has become a familiar destination for me is that my only sister's in-laws live there, which means I get the opportunity to visit the region quite often. However, for someone like me, who has a deep passion for travelling, every visit is more than just a family trip.</p>
 
-<p>My journey through Sylhet is another part of my travel collection. Through this section, I will share the places I visited, the landscapes I explored, and the moments that made the journey memorable.</p>
+<p>Whenever I travel to a place, I try to learn something beyond what I can see with my own eyes. I am naturally curious about local food, famous attractions, history, traditions, and the everyday lives of the people who call that place home. These are the things that make travelling meaningful to me. Beautiful landscapes may catch my attention at first, but understanding the people and culture behind a destination makes the experience even more memorable.</p>
 
-<p>For me, travelling is an opportunity to discover unfamiliar places, observe local life, and create lasting memories. This story will bring together my personal experiences and photographs from Sylhet.</p>
+<p>Over my repeated visits to Sylhet, my interest has never been limited to simply reaching a destination or taking photographs. I always look for opportunities to discover something new, whether it is a local speciality, a place with historical significance, or a glimpse into the everyday lifestyle of the local community. I believe every region has its own identity, shaped by its history, culture, food, and people, and I enjoy exploring those unique characteristics whenever I get the chance.</p>
+
+<p>For me, Sylhet is more than a place I have visited eight times. It is a destination that continues to offer opportunities for discovery, learning, and new experiences. Each visit becomes another chapter in my travel journey, reminding me that travelling is not only about seeing new places but also about understanding them.</p>
+
+<h3>Sylhet Photo Gallery</h3>
+
+<div class="travel-gallery">
+
+  <div>
+    <img src="/images/travel/sylhet-2.jpg" alt="Sada Pathor, Bholaganj, Sylhet">
+    <p><strong>Sada Pathor, Bholaganj</strong></p>
+    <p>Bholaganj is known for its white stones and river scenery, making it one of Sylhet's well-known natural attractions.</p>
+    <p><strong>Date:</strong> 8 August 2025</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-3.jpg" alt="Bisanakandi and Bholaganj, Sylhet">
+    <p><strong>Bisanakandi and Bholaganj</strong></p>
+    <p>A travel memory from Sylhet, a region I have returned to many times to explore its natural beauty and discover new places.</p>
+    <p><strong>Date:</strong> 15 December 2025</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-4.jpg" alt="Ratargul Swamp Forest, Gowain River, Sylhet">
+    <p><strong>Ratargul Swamp Forest</strong></p>
+    <p>Located in Gowainghat, Ratargul is known for its freshwater swamp forest and the surrounding Gowain River landscape.</p>
+    <p><strong>Date:</strong> 8 August 2025</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-5.jpg" alt="Shrine of Shah Paran, Sylhet">
+    <p><strong>Shrine of Shah Paran</strong></p>
+    <p>A visit to one of Sylhet's important spiritual sites. Exploring historical and cultural places is an important part of my travel experiences.</p>
+    <p><strong>Date:</strong> 14 December 2025</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-6.jpg" alt="Tea at Shafrong, Sylhet">
+    <p><strong>Tea at Shafrong</strong></p>
+    <p>Tea is closely associated with Sylhet's identity. This stop adds another memory to my collection of experiences from the region.</p>
+    <p><strong>Date:</strong> 14 December 2025</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-7.jpg" alt="Ali Amjad's Clock, Sylhet">
+    <p><strong>Ali Amjad's Clock</strong></p>
+    <p>Situated beside the Surma River, Ali Amjad's Clock is one of Sylhet's best-known historical landmarks and a distinctive part of the city's heritage.</p>
+    <p><strong>Date:</strong> 7 February 2023</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-8.jpg" alt="Palm oil garden in Khadimnagar, Sylhet">
+    <p><strong>Khadimnagar Palm Oil Garden</strong></p>
+    <p>A different landscape from the usual river and hill scenery, adding variety to my experiences of exploring Sylhet.</p>
+    <p><strong>Date:</strong> 14 December 2025</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-9.jpg" alt="China Clay Hill, Sylhet">
+    <p><strong>China Clay Hill</strong></p>
+    <p>Another interesting location in my Sylhet travel collection. I enjoy discovering places with distinctive landscapes and learning about the regions I visit.</p>
+    <p><strong>Date:</strong> 14 December 2025</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-10.jpeg" alt="Jaflong, Gowainghat, Sylhet">
+    <p><strong>Jaflong, Gowainghat</strong></p>
+    <p>Jaflong is known for its river scenery and views towards the hills near the Bangladesh–India border. It remains one of Sylhet's familiar travel destinations.</p>
+    <p><strong>Date:</strong> 18 May 2026</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-11.jpeg" alt="Khasia Polli, Jaflong">
+    <p><strong>Khasia Polli, Jaflong</strong></p>
+    <p>Learning about local communities and their everyday lives is one of the things that makes travelling meaningful to me. Places like this encourage me to look beyond the scenery.</p>
+    <p><strong>Date:</strong> 18 May 2026</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-12.jpeg" alt="Tea garden in Jaflong, Sylhet">
+    <p><strong>Tea Garden of Jaflong</strong></p>
+    <p>A tea garden adds another dimension to Sylhet's varied landscape. Discovering different sides of a familiar region is one of the reasons I enjoy returning.</p>
+    <p><strong>Date:</strong> 18 May 2026</p>
+  </div>
+
+  <div>
+    <img src="/images/travel/sylhet-13.jpeg" alt="Mayabi Waterfalls, Gowainghat, Sylhet">
+    <p><strong>Mayabi Waterfalls, Gowainghat</strong></p>
+    <p>Another stop in my Sylhet travel journey. Every visit gives me another opportunity to explore a place, observe my surroundings, and add new memories to my travel collection.</p>
+    <p><strong>Date:</strong> 18 May 2026</p>
+  </div>
 
 </div>
+</div>
+
 
 <div class="travel-story" id="chittagong">
 
