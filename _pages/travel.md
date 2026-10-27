@@ -87,7 +87,7 @@ Explore some of my memorable journeys through photographs and personal stories.
     <img src="/images/travel/chittagong.jpg" alt="Chittagong travel destination">
     <div class="travel-card-body">
       <h3>Chittagong</h3>
-      <p>Places I explored and experiences from my journey.</p>
+      <p>page are currently ongoing</p>
       <a href="#chittagong">Read Travel Story →</a>
     </div>
   </div>
@@ -319,9 +319,9 @@ Explore some of my memorable journeys through photographs and personal stories.
 
 <img src="/images/travel/chittagong.jpg" alt="Chittagong travel story">
 
-<p><strong>Travel date:</strong> Add your date here</p>
+<p><strong>Travel date:</strong> ___ </p>
 
-<p>Share your journey, the places you explored, and your favourite memories from Chittagong.</p>
+<p>The activities of this page are currently ongoing, and you will be able to see it very soon.</p>
 
 </div>
 
@@ -564,8 +564,8 @@ Photographs and short descriptions from other places I have explored.
   <div class="travel-card">
     <img src="/images/travel/mymensingh.jpg" alt="Mymensingh">
     <div class="travel-card-body">
-      <h3>Mymensingh</h3>
-      <p>Add a short description of your visit and a memorable moment.</p>
+      <h3>Location</h3>
+      <p>page are currently ongoing.</p>
     </div>
   </div>
 
@@ -573,7 +573,7 @@ Photographs and short descriptions from other places I have explored.
     <img src="/images/travel/place-2.jpg" alt="Another travel destination">
     <div class="travel-card-body">
       <h3>Place Name</h3>
-      <p>Write one or two lines about this place and your experience.</p>
+      <p>page are currently ongoing.</p>
     </div>
   </div>
 
