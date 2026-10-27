@@ -325,17 +325,233 @@ Explore some of my memorable journeys through photographs and personal stories.
 
 </div>
 
+<!-- PANCHAGARH TRAVEL STORY -->
 <div class="travel-story" id="panchagarh">
 
-<h3>Panchagarh</h3>
+  <h3>Panchagarh: The Unplanned Magic of My Trip</h3>
 
-<img src="/images/travel/panchagarh.jpg" alt="Panchagarh travel story">
+  <!-- PANCHAGARH PHOTO 1: FULL STORY -->
+  <img src="/images/travel/panchagarh-1.jpg"
+       alt="A memorable moment from my Panchagarh trip">
 
-<p><strong>Travel date:</strong> Add your date here</p>
+  <p><strong>Travel date:</strong> 18 November 2023</p>
 
-<p>Write about your journey to Panchagarh, the places you visited, and your personal experiences.</p>
+  <h4>The Unplanned Magic of My Panchagarh Trip</h4>
 
+  <p>
+    In November 2023, I packed my bags and took an overnight train to the
+    northern tip of Bangladesh. My main goal was to see the majestic
+    Kanchenjunga from Tetulia.
+  </p>
+
+  <p>
+    Unfortunately, clouds covered the sky, and I couldn't see the mountain.
+    However, the trip turned out to be one of the best train journeys of my
+    life.
+  </p>
+
+  <h4>That Sunrise Moment</h4>
+
+  <p>
+    We boarded the Panchagarh Express overnight from Dhaka. I was too excited
+    to sleep properly, but the real magic began the next morning.
+  </p>
+
+  <p>
+    After crossing Thakurgaon and entering Panchagarh district, I looked
+    outside the train window and was amazed by the endless fields of golden,
+    ripe paddy stretching across both sides of the railway line. Just then,
+    the sun began to rise over the horizon. Watching those golden fields glow
+    in the cool November morning air was pure bliss. That single moment made
+    the entire train journey worth it.
+  </p>
+
+  <h4>Beyond the Peaks</h4>
+
+  <p>
+    When we arrived in Tetulia, the sky was cloudy, and Kanchenjunga remained
+    hidden. Still, Panchagarh had plenty to offer. We explored the flatland
+    tea gardens, visited Banglabandha Zero Point near the border, and enjoyed
+    the cool, crisp weather.
+  </p>
+
+  <p>
+    What touched me most was the warmth and simplicity of the local people.
+    Standing near the border with a cup of local tea, I realised that
+    travelling is not always about seeing the place you originally planned
+    to visit. Sometimes, the journey, the unexpected moments, and the people
+    you meet make a trip unforgettable.
+  </p>
+
+  <h3>Panchagarh Photo Gallery</h3>
+
+  <div class="travel-gallery">
+
+    <!-- PANCHAGARH PHOTO 2 -->
+    <div class="travel-card">
+      <img src="/images/travel/panchagarh-2.jpg"
+           alt="Banglabandha Zero Point, Panchagarh">
+
+      <h4>Banglabandha Zero Point</h4>
+
+      <p><strong>Date:</strong> 18 November 2023</p>
+
+      <p>
+        Visiting Banglabandha Zero Point sparked my dream of travelling by
+        road to Darjeeling and Nepal. Standing near the border made me imagine
+        the journeys I hope to experience in the future.
+      </p>
+    </div>
+
+    <!-- PANCHAGARH PHOTO 3 -->
+    <div class="travel-card">
+      <img src="/images/travel/panchagarh-3.jpeg"
+           alt="Sunrise over golden paddy fields from the Panchagarh Express">
+
+      <h4>Sunrise from the Panchagarh Express</h4>
+
+      <p><strong>Date:</strong> 18 November 2023</p>
+
+      <p>
+        This was the breathtaking sunrise I saw just after crossing Thakurgaon
+        and entering Panchagarh. The golden fields in the early morning light
+        made this one of the most beautiful train journeys of my life.
+      </p>
+    </div>
+
+    <!-- PANCHAGARH PHOTO 4 -->
+    <div class="travel-card">
+      <img src="/images/travel/panchagarh-4.jpg"
+           alt="Flatland tea gardens near Tetulia and the Indian border">
+
+      <h4>Tea Gardens Near the Border</h4>
+
+      <p><strong>Date:</strong> 18 November 2023</p>
+
+      <p>
+        Standing on the Indian side of the border, with vast stretches of
+        flatland tea gardens behind me in Tetulia, was a memorable moment
+        from the trip.
+      </p>
+    </div>
+
+    <!-- PANCHAGARH PHOTO 5 -->
+    <div class="travel-card">
+      <img src="/images/travel/panchagarh-5.jpg"
+           alt="Scenic tea gardens in Tetulia">
+
+      <h4>The Flatland Tea Gardens of Tetulia</h4>
+
+      <p><strong>Date:</strong> 18 November 2023</p>
+
+      <p>
+        The tea gardens of Tetulia offered a distinctive landscape and a
+        peaceful atmosphere. Exploring this area was one of the memorable
+        parts of my Panchagarh trip.
+      </p>
+    </div>
+
+    <!-- PANCHAGARH PHOTO 6 -->
+    <div class="travel-card">
+      <img src="/images/travel/panchagarh-6.jpg"
+           alt="A memorable moment with fellow travellers in Panchagarh">
+
+      <h4>New Friends, Lasting Memories</h4>
+
+      <p><strong>Date:</strong> 18 November 2023</p>
+
+      <p>
+        After arriving at Bir Muktijoddha Sirajul Islam Railway Station,
+        now known as Panchagarh Railway Station, I met a group of fellow
+        travellers. We later explored Tetulia and Banglabandha Zero Point
+        together. I took this photo to preserve the memory, especially with
+        our team leader, Tajbid Bhai, with whom I still share a strong bond.
+      </p>
+    </div>
+
+    <!-- PANCHAGARH PHOTO 7 -->
+    <div class="travel-card">
+      <img src="/images/travel/panchagarh-7.jpg"
+           alt="Road distance information for Darjeeling, Nepal and Bhutan">
+
+      <h4>Roads to New Destinations</h4>
+
+      <p><strong>Date:</strong> 18 November 2023</p>
+
+      <p>
+        This sign displayed road distances to Darjeeling, Nepal, and Bhutan.
+        Seeing it made me think about the many journeys I would love to take
+        across these nearby destinations.
+      </p>
+    </div>
+
+    <!-- PANCHAGARH PHOTO 8 -->
+    <div class="travel-card">
+      <img src="/images/travel/panchagarh-8.jpg"
+           alt="Kanchenjunga Viewpoint in Tetulia">
+
+      <h4>Kanchenjunga Viewpoint, Tetulia</h4>
+
+      <p><strong>Date:</strong> 18 November 2023</p>
+
+      <p>
+        I spent a long time at the Kanchenjunga Viewpoint in Tetulia,
+        hoping to see the majestic mountain. Unfortunately, the cloudy sky
+        kept the view hidden, but the experience itself became part of
+        my travel memories.
+      </p>
+    </div>
+
+    <!-- PANCHAGARH PHOTO 9 -->
+    <div class="travel-card">
+      <img src="/images/travel/panchagarh-9.jpg"
+           alt="View from a train crossing the Jamuna Bridge">
+
+      <h4>Crossing the Jamuna Bridge</h4>
+
+      <p><strong>Date:</strong> 18 November 2023</p>
+
+      <p>
+        I captured this beautiful view while travelling by train across
+        the Jamuna Bridge on my journey to northern Bangladesh.
+      </p>
+    </div>
+
+    <!-- PANCHAGARH PHOTO 10 -->
+    <div class="travel-card">
+      <img src="/images/travel/panchagarh-10.jpg"
+           alt="Dinajpur Railway Station">
+
+      <h4>Dinajpur Railway Station</h4>
+
+      <p><strong>Date:</strong> 18 November 2023</p>
+
+      <p>
+        A moment captured at Dinajpur Railway Station during my train
+        journey through northern Bangladesh.
+      </p>
+    </div>
+
+    <!-- PANCHAGARH PHOTO 11 -->
+    <div class="travel-card">
+      <img src="/images/travel/panchagarh-11.jpg"
+           alt="Tea served in a large glass in northern Bangladesh">
+
+      <h4>A Different Tea Culture</h4>
+
+      <p><strong>Date:</strong> 18 November 2023</p>
+
+      <p>
+        One interesting thing I noticed during my trip was how commonly
+        tea is served in large glasses across many northern districts.
+        I rarely saw the small tea cups I was used to elsewhere. It was
+        a simple but memorable detail of local life.
+      </p>
+    </div>
+
+  </div>
 </div>
+<!-- END PANCHAGARH TRAVEL STORY -->
 
 ---
 
