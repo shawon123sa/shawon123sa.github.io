@@ -93,7 +93,7 @@ Explore some of my memorable journeys through photographs and personal stories.
   </div>
 
   <div class="travel-card">
-    <img src="/images/travel/panchagarh.jpg" alt="Panchagarh travel destination">
+    <img src="/images/travel/panchagarh-1.jpg" alt="Panchagarh travel destination">
     <div class="travel-card-body">
       <h3>Panchagarh</h3>
       <p>A collection of travel memories from the northern part of Bangladesh.</p>
