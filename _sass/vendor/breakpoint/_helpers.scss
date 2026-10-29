@@ -36,7 +36,7 @@
     @return $value;
   }
   @else if $unit == 'pt' {
-    @return math.div($value, 12pt) * 1em;
+    @return ($value / 12pt) * 1em;
   }
   @else {
     @return $value;
